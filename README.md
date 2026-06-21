@@ -34,7 +34,7 @@
 
 `Создал два контейнера с mysql через Docker Compose:`
 
-[master-master.yml](https://github.com/PhartomX/replic_netology_2/blob/main/master-master.yml)
+[docker-compose.yml](https://github.com/PhartomX/replic_netology_2/blob/main/docker-compose.yml)
 
 
 `Файлы конфигурации:`
