@@ -40,27 +40,13 @@
 ![img1](https://github.com/PhartomX/replic_netology_2/blob/main/img/img1.png)
 
 
-При горизонтальном шардинге разбиваем исходную таблицу на по какому-либо диапазону, например по id: 1 – 1000, 10001 – 2000, и т.д.
+При горизонтальном шардинге разбиваем исходную таблицу на по какому-либо диапазону, например по id: 1 – 1000, 1001 – 2000, и т.д.
 
 `Горизонтальный шардинг:`
 ![img2](https://github.com/PhartomX/replic_netology_2/blob/main/img/img2.png)
 
 
 
----
-
-### Задание 3*
-
-Выполните настройку выбранных методов шардинга из задания 2.
-
-`Создал два контейнера с mysql через Docker Compose:`
-
-[docker-compose.yml](https://github.com/PhartomX/replic_netology_2/blob/main/docker-compose.yml)
-
-
-`Файлы конфигурации:`
-
-![img3](https://github.com/PhartomX/replic_netology_2/blob/main/img/img3.png)
 
 
 
